@@ -1,0 +1,35 @@
+{
+  "name": "@codex-7/html-gulp",
+  "author": "codex-7",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "gulp"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "autoprefixer": "^10.4.4",
+    "browser-sync": "^2.27.9",
+    "cssnano": "^5.1.7",
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-html": "^5.0.0",
+    "gulp-html-beautify": "^1.0.1",
+    "gulp-livereload": "^4.0.2",
+    "gulp-notify": "^4.0.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-postcss": "^9.0.1",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-template-html": "^0.2.2",
+    "postcss": "^8.4.12",
+    "sass": "^1.45.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codex-7/html-template-boilerplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/codex-7/html-template-boilerplate/issues"
+  },
+  "homepage": "https://github.com/codex-7/html-template-boilerplate#readme"
+}
